@@ -1,0 +1,13 @@
+{
+  "id" : "https://EduardsSk.github.io/riga-literata-iiif/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in EduardsSk/riga-literata-iiif project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://EduardsSk.github.io/riga-literata-iiif/manifests/manifest2.json",
+    "label" : "Title pages"
+  } ]
+}
