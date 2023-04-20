@@ -1,0 +1,101 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://EduardsSk.github.io/riga-literata-iiif/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Title pages",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : [ {
+      "@value" : "Eduards Skvireckis",
+      "@language" : "en"
+    }, {
+      "@value" : "Edwardo Skvircko",
+      "@language" : "fr"
+    } ]
+  }, {
+    "label" : "Published",
+    "value" : [ {
+      "@value" : "Riga",
+      "@language" : "en"
+    }, {
+      "@value" : "Rīga",
+      "@language" : "lv"
+    } ]
+  }, {
+    "label" : "Publisher",
+    "value" : "Mollīns"
+  } ],
+  "description" : [ {
+    "@value" : "Title pages from Riga literata project",
+    "@language" : "en"
+  }, {
+    "value" : "Projekta Riga literata titullapas",
+    "@language" : "lv"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution" : "National Library of Latvia",
+  "sequences" : [ {
+    "@id" : "http://157b3337-20d1-4091-b453-fdb807ec0b6d",
+    "@type" : "sc:Sequence",
+    "viewingDirection" : "left-to-right",
+    "viewingHint" : "paged",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://5218e9ee-3837-4243-846b-cea2a8c69866",
+      "@type" : "sc:Canvas",
+      "label" : "TP of De vera nobilitate",
+      "height" : 4677,
+      "width" : 3816,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://095ff8dd-91d6-44f1-90d5-ea8f851d818f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/frencelius-s-de-vera-nobilitate-1599-r-2054-9-01/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/frencelius-s-de-vera-nobilitate-1599-r-2054-9-01",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4677,
+          "width" : 3816
+        },
+        "on" : "http://5218e9ee-3837-4243-846b-cea2a8c69866"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://e57468bd-9fdc-47f8-9525-bc9af6402252",
+      "@type" : "sc:Canvas",
+      "label" : "TP of Livoniae",
+      "height" : 4352,
+      "width" : 3179,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://43ed72cb-334a-4494-ba53-28a4a80370a1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/img-20-0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/img-20-0001",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 4352,
+          "width" : 3179
+        },
+        "on" : "http://e57468bd-9fdc-47f8-9525-bc9af6402252"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
