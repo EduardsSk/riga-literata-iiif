@@ -29,7 +29,7 @@
     "@value" : "Title pages from Riga literata project",
     "@language" : "en"
   }, {
-    "value" : "Projekta Riga literata titullapas",
+    "@value" : "Projekta Riga literata titullapas",
     "@language" : "lv"
   } ],
   "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/",
