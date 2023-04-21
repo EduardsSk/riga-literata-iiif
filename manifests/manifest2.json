@@ -3,6 +3,11 @@
   "@id" : "https://EduardsSk.github.io/riga-literata-iiif/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Title pages",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/33160691/d86c0ea849267d150f097d8b2a5509bc/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Author",
     "value" : [ {
@@ -68,6 +73,11 @@
         },
         "on" : "http://5218e9ee-3837-4243-846b-cea2a8c69866"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://eduardssk.github.io/riga-literata-iiif/annotations/25149a4cbb3a26e544fe3a652d87e9ed.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://e57468bd-9fdc-47f8-9525-bc9af6402252",
@@ -93,6 +103,11 @@
           "width" : 3179
         },
         "on" : "http://e57468bd-9fdc-47f8-9525-bc9af6402252"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://eduardssk.github.io/riga-literata-iiif/annotations/eb245966a3fdfac0cb2167578ec4873f.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     } ]
