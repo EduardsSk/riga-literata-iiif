@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://EduardsSk.github.io/riga-literata-iiif/annotations/25149a4cbb3a26e544fe3a652d87e9ed.json" ],
+  "otherContent" : [ "https://EduardsSk.github.io/riga-literata-iiif/annotations/25149a4cbb3a26e544fe3a652d87e9ed.json", "https://EduardsSk.github.io/riga-literata-iiif/annotations/eb245966a3fdfac0cb2167578ec4873f.json" ],
   "@id" : "https://EduardsSk.github.io/riga-literata-iiif/annotations/collection.json",
   "label" : "All annotations loaded in EduardsSk/riga-literata-iiif project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
