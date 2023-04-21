@@ -1,0 +1,191 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "illustration",
+      "@type" : "oa:Tag",
+      "chars" : "illustration"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mollyn 1st decorative piece",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mollyn 1st decorative piece</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/33160691",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-04-21T05:27:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682054853978",
+    "dcterms:modified" : "2023-04-21T05:27:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://EduardsSk.github.io/riga-literata-iiif/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=484,1826,1813,1405"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M483.69022,1826.18494h906.46896v0h906.46896v702.37913v702.37913h-906.46896h-906.46896v-702.37913z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_76eec596-b975-424d-aadb-87bc4a1932cd\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e57468bd-9fdc-47f8-9525-bc9af6402252"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q80970148\" target=\"_blank\" rel=\"noopener\">Georg von Tiesenhausen",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q80970148\" target=\"_blank\" rel=\"noopener\">Georg von Tiesenhausen</a></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "author",
+      "@type" : "oa:Tag",
+      "chars" : "author"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/33160691",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-04-21T05:28:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682054910607",
+    "dcterms:modified" : "2023-04-21T05:32:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://EduardsSk.github.io/riga-literata-iiif/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1581,66,1340,111"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1581.36023,66.15216h669.86019v0h669.86019v55.29435v55.29435h-669.86019h-669.86019v-55.29435z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_c590af52-106f-4db6-b94c-94dc0f092dc9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"24.83572\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e57468bd-9fdc-47f8-9525-bc9af6402252"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "publicationPlace",
+      "@type" : "oa:Tag",
+      "chars" : "publicationPlace"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q1773\" target=\"_blank\" rel=\"noopener\">Riga",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q1773\" target=\"_blank\" rel=\"noopener\">Riga</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/33160691",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-04-21T05:34:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682055260135",
+    "dcterms:modified" : "2023-04-21T05:34:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://EduardsSk.github.io/riga-literata-iiif/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1086,3208,507,122"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1086.42124,3207.57179h253.49649v0h253.49649v61.01966v61.01966h-253.49649h-253.49649v-61.01966z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ba372525-a669-415f-9309-15c87f0e65ce\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e57468bd-9fdc-47f8-9525-bc9af6402252"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "publisher",
+      "@type" : "oa:Tag",
+      "chars" : "publisher"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q16347994\" target=\"_blank\" rel=\"noopener\">Nikolaus Mollyn",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q16347994\" target=\"_blank\" rel=\"noopener\">Nikolaus Mollyn</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/33160691",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-04-21T05:35:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682055332612",
+    "dcterms:modified" : "2023-04-21T05:35:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://EduardsSk.github.io/riga-literata-iiif/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=610,3299,1554,168"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M610.40328,3298.6361h777.11625v0h777.11625v83.78573v83.78573h-777.11625h-777.11625v-83.78573z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8481e210-8962-46d0-a12d-18c4c61a425c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e57468bd-9fdc-47f8-9525-bc9af6402252"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "illustration",
+      "@type" : "oa:Tag",
+      "chars" : "illustration"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "vignette",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>vignette</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/33160691",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-04-21T05:37:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682055422177",
+    "dcterms:modified" : "2023-04-21T05:37:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://EduardsSk.github.io/riga-literata-iiif/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=82,159,2595,3865"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M81.95861,158.92052v3816.8384l2560.57684,48.05372l34.32409,-3844.29767l-2588.03611,-13.72963l336.37605,185.35007l6.86482,3281.38265l1880.95993,41.1889l27.45927,-3288.24747l-1915.28402,-20.59445v0h6.86482l-6.86482,-6.86482\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_5198c027-bba9-48fd-ae53-e567f064aa3a\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e57468bd-9fdc-47f8-9525-bc9af6402252"
+    } ]
+  } ],
+  "@id" : "https://EduardsSk.github.io/riga-literata-iiif/annotations/eb245966a3fdfac0cb2167578ec4873f.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
